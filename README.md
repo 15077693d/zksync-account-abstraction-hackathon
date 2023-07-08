@@ -24,13 +24,19 @@ cd frontend
 npm install
 ```
 
-4. Start the development server:
+4. Update environment variable
+
+```
+cp .env.template .env
+```
+
+5. Start the development server:
 
 ```
 npm run dev
 ```
 
-5. Open your browser and visit `http://localhost:3000` to see the app running.
+6. Open your browser and visit `http://localhost:3000` to see the app running.
 
 ## Smart Contract Deployment
 
