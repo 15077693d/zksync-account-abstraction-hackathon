@@ -1,4 +1,4 @@
+node_modules/
+artifacts-zk/
+cache-zk/
 .env
-artifacts-zk
-cache-zk
-node_modules
